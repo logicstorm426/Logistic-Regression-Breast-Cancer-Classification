@@ -209,7 +209,7 @@ model = LogisticRegression(
 
 ```bash
 # Clone the repository
-git clone https://github.com/NhanPhamThanh-IT/Logistic-Regression-Breast-Cancer-Classification.git
+git clone https://github.com/logicstorm426/Logistic-Regression-Breast-Cancer-Classification.git
 
 # Navigate to project directory
 cd Logistic-Regression-Breast-Cancer-Classification
@@ -257,7 +257,7 @@ pickle-mixin>=1.0.2
 
 ```bash
 # Clone the repository
-git clone https://github.com/NhanPhamThanh-IT/Logistic-Regression-Breast-Cancer-Classification.git
+git clone https://github.com/logicstorm426/Logistic-Regression-Breast-Cancer-Classification.git
 
 # Change to project directory
 cd Logistic-Regression-Breast-Cancer-Classification
@@ -864,19 +864,3 @@ Special thanks to:
 - **Healthcare Professionals** who inspire this work
 
 ---
-
-## 🌟 **Star this Repository**
-
-If you found this project helpful, please consider giving it a ⭐ star on GitHub!
-
-[![GitHub stars](https://img.shields.io/github/stars/NhanPhamThanh-IT/Logistic-Regression-Breast-Cancer-Classification.svg?style=social&label=Star)](https://github.com/NhanPhamThanh-IT/Logistic-Regression-Breast-Cancer-Classification)
-
----
-
-**Made with ❤️ for the open-source community**
-
-_This project is dedicated to advancing healthcare through artificial intelligence and making medical diagnostic tools more accessible to healthcare professionals worldwide._
-
-</div>
-
-</div>
